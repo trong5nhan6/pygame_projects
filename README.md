@@ -34,6 +34,11 @@ cd Streamlit_project
 pip install -r requirements.txt
 ```
 ## Usage
+**Clock**
+```c 
+cd flappy_bird
+python flappy_bird.py
+```
 **Flappy Bird**
 ```c 
 cd flappy_bird
@@ -44,10 +49,13 @@ python flappy_bird.py
 cd flappy_bird
 python flappy_bird.py
 ```
-**Flappy Bird**
-```c 
-cd flappy_bird
-python flappy_bird.py
-```
 
+## Running Executables
+If you prefer to run the projects as executables, you can find the .exe files in the dist directory of each project. Follow the instructions below:
+
+> Navigate to the dist directory of the desired project.
+> Run file .exe
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
